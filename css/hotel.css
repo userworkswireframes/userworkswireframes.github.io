@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.convention-box{
+  padding-bottom:0 !important;
+}
+
+.convention-title-box > h1{
+  font-size:24px;
+  float:left;
+  margin-left:-30px;
+  margin-top:30px;
+  margin-bottom:0;
+}
+.convention-title-box > h2{
+  font-size:18px;
+  float:left;
+  margin-left:-30px;
+  margin-top:5px;
+}
+
+.convention{
+width:100px;
+float:left;
+margin-left:30px;
+margin-top: 3px !important;
+}
+
+.hotel-box{
+  margin-left:35px;
+  margin-bottom:10px;
+  padding:0;
+  height:50px;
+  background-color: #476482
+}
+
+.hotel-box:hover{
+
+  background-color: #7089A3 !important;
+}
+
+.hotel-title{
+ padding:0;
+ height:50px; 
+}
+
+.hotel-title > p{
+ font-size:18px;
+ text-align:right;
+ color:#ffffff;
+ line-height:50px;
+}
+.hotel-title > h2{
+  font-size: 20px;
+  color:#ffffff;
+  text-align:left;
+  line-height:50px;
+  margin-top:0 !important;
+    margin-bottom:0 !important;
+        margin-left:15px !important;
+}
+
+.hotel-title > .down-expando{
+  width:30px;
+  float:right;
+  margin-right:12px;
+
+  margin-top:10px;
+}

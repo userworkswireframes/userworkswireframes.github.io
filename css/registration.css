@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+.fee-table{
+width: 700px;
+margin-top:0px;
+margin-bottom:15px;
+}
+
+.right-button{
+width: 225px;
+margin-bottom:10px;
+}
+
+.no-col > h1{
+text-align:left;
+font-size:30px;
+color:#476482;
+margin-left:35px;
+margin-bottom:15px;
+}
